@@ -91,5 +91,5 @@ function remove_submenu_add_new() {
 }
 function deer_test_page()
 {
-    require_once dirname(__FILE__) . '/template/functions_deer_tests_page.php';
+    require_once dirname(__FILE__) . 'functions_deer_tests_page.php';
 }
